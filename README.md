@@ -1,6 +1,6 @@
 # GenePull
 
-Tool to extract a certain gene from an assembly using Blast. There is an update of that tool that manages automatization and usage of this tool with multiple genomes and genes at the same time
+Tool to extract a certain gene from an assembly using Blast. See below for an example of how to run on an HPC with slurm scheduling for multiple genomes and genes at the same time.
 
 ## Requirements
 
